@@ -18,9 +18,9 @@ cd ..
 rm -rf InstaUser5
 git clone https://github.com/sunnamsriram1/InstaUser5.git
 cd InstaUser5
-chmod +x InstaUserD.sh
+chmod +x InstaUserD.py
 printf "\n\e[1;92mRestarting ...\n\e[0m"
-bash InstaUserD.sh
+bash InstaUserD.py
 cd ..
 
 }
