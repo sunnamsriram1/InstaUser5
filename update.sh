@@ -15,7 +15,7 @@ clear
 printf "\n \e[1;92mUpdating \e[1;94mInstIDU5\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
-rm -rf InstaIDU
+rm -rf InstaIDU5
 git clone https://github.com/sunnamsriram1/InstaUser5.git
 cd InstaUser5
 chmod +x InstaUserD.sh
