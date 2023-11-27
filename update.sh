@@ -21,6 +21,7 @@ cd InstaUser5
 chmod +x InstaUserD.py
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 python3 InstaUserD.py
+rm -rf InstaUser5
 cd ..
 
 }
