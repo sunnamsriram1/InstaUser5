@@ -20,7 +20,7 @@ git clone https://github.com/sunnamsriram1/InstaUser5.git
 cd InstaUser5
 chmod +x InstaUserD.py
 printf "\n\e[1;92mRestarting ...\n\e[0m"
-bash InstaUserD.py
+python3 InstaUserD.py
 cd ..
 
 }
