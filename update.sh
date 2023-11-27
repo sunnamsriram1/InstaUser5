@@ -12,7 +12,7 @@ command -v git > /dev/null 2>&1 || { echo >&2 "Package GIT is Not installed ... 
 script() {
 
 clear
-printf "\n \e[1;92mUpdating \e[1;94mInstIDU5\e[1;92m ...\n\n"
+printf "\n \e[1;92mUpdating \e[1;94mInstUser5\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
 rm -rf InstaUser5
