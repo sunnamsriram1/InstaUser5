@@ -7,7 +7,7 @@
 
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/MUMIT-404-CYBER/count.svg" alt="Visitors">
+ <img src="https://github.com/sunnamsriram1/InstaUser5/tree/main/count.svg" alt="Visitors">
 </p>
 
 ### Blog: 
