@@ -6,9 +6,8 @@
 
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://github.com/sunnamsriram1/InstaUser5/tree/main/count.svg" alt="Visitors">
+ <img src="https://profile-counter.glitch.me/sunnamsriram1/count.svg" alt="Visitors">
 </p>
-
 
 ### Blog: 
 ``` https://teletechstore.blogspot.com](https://sprogram00zone.blogspot.com/?m=1 ``` 
